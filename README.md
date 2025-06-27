@@ -1,1 +1,1 @@
-R Programming in July 2023 (Course: Intro to Statistical Machine Learning) 
+R Programming (Course: Intro to Statistical Machine Learning) 
