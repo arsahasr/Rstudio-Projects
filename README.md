@@ -1,1 +1,1 @@
-R Programming (Course: Intro to Statistical Machine Learning)
+R Programming (Statistical Machine Learning, Analytics Modeling)
